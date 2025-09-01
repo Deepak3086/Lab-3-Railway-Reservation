@@ -1,5 +1,6 @@
 # Lab-3-Railway-Reservation
-
+## NAME : DEEPAK J G
+## REG.NO : 212224220019
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -19,6 +20,23 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 
+## Usecase Diagram:
+<img width="1248" height="1032" alt="image" src="https://github.com/user-attachments/assets/0874ed0d-3ca1-4daf-b148-c464048b744b" />
+
+## Sequence Diagram:
+<img width="1247" height="1023" alt="image" src="https://github.com/user-attachments/assets/43607ab2-4c31-4706-9aaf-0dc865ae662c" />
+
+## Activity Diagram:
+<img width="1256" height="1028" alt="image" src="https://github.com/user-attachments/assets/5607e60d-f2ba-4c12-8aa4-9a0e9a675e09" />
+
+## Communication Diagram:
+<img width="1036" height="812" alt="Screenshot 2025-09-01 110723" src="https://github.com/user-attachments/assets/a2b767b6-3b10-443d-ae72-ef2d26ab025e" />
+
+## Package Diagram:
+<img width="1027" height="738" alt="image" src="https://github.com/user-attachments/assets/2d72eb39-593c-4af2-85cf-91cebaeadfb8" />
+
+## Class Diagram:
+<img width="1034" height="734" alt="image" src="https://github.com/user-attachments/assets/90f656f6-9fbc-420e-abec-9b950305d281" />
 
 
 ### RESULT:
